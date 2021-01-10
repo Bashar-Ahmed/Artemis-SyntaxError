@@ -26,3 +26,6 @@ Aiming to Implement the maze in such a way that no closed loops are formed, maki
 By further improving this rudimentary algorithm we can use this in navigation apps to find the shortest path between any two places
 Such a case can be very helpful in emergency scenarios, eg: Intelligent Traffic control to make ways for Ambulances, Firetrucks,etc.
 Using Machine Learning for the same, to develop a faster, more efficient solver. 
+
+Citations Used:
+https://github.com/tonypdavis/PythonMazeGenerator
